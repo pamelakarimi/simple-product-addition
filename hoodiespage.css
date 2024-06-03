@@ -1,0 +1,256 @@
+.hoodiespage-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.hoodiespage-hoodiespage {
+  width: 100%;
+  height: 2382px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.hoodiespage-tshirts {
+  top: 114px;
+  left: 1370px;
+  width: 1300px;
+  height: 1198px;
+  position: absolute;
+}
+.hoodiespage-text {
+  top: 1373px;
+  left: 13px;
+  color: rgba(255, 65, 65, 1);
+  width: 413px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.hoodiespage-text02 {
+  top: 1434px;
+  left: 86px;
+  color: rgba(0, 0, 0, 1);
+  width: 195px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.hoodiespage-text04 {
+  top: 1611px;
+  left: 116px;
+  color: rgba(0, 0, 0, 1);
+  width: 139px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.hoodiespage-text06 {
+  top: 1512px;
+  left: 13px;
+  color: rgba(0, 0, 0, 1);
+  width: 385px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.hoodiespage-text08 {
+  top: 1557px;
+  left: 101px;
+  color: rgba(255, 65, 65, 1);
+  width: 117px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.hoodiespage-text10 {
+  top: 1557px;
+  left: 225px;
+  color: rgba(255, 65, 65, 1);
+  width: 117px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.hoodiespage-text12 {
+  top: 1557px;
+  left: 366px;
+  color: rgba(255, 65, 65, 1);
+  width: 117px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.hoodiespage-text14 {
+  top: 1777px;
+  left: 17px;
+  color: rgba(0, 0, 0, 1);
+  width: 331px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.hoodiespage-rectangle19 {
+  top: 1675px;
+  left: 146px;
+  width: 92px;
+  height: 62px;
+  position: absolute;
+  border-color: rgba(255, 65, 65, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.hoodiespage-rectangle22 {
+  top: 1835px;
+  left: 145px;
+  width: 437px;
+  height: 62px;
+  position: absolute;
+  border-color: rgba(255, 65, 65, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.hoodiespage-rectangle20 {
+  top: 1675px;
+  left: 311px;
+  width: 96px;
+  height: 62px;
+  position: absolute;
+  border-color: rgba(255, 65, 65, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.hoodiespage-rectangle21 {
+  top: 1675px;
+  left: 477px;
+  width: 92px;
+  height: 62px;
+  position: absolute;
+  border-color: rgba(255, 65, 65, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.hoodiespage-text16 {
+  top: 1684px;
+  left: 113px;
+  color: rgba(0, 0, 0, 1);
+  width: 158px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.hoodiespage-text17 {
+  top: 1687px;
+  left: 280px;
+  color: rgba(0, 0, 0, 1);
+  width: 159px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.hoodiespage-text18 {
+  top: 1847px;
+  left: 139px;
+  color: rgba(0, 0, 0, 1);
+  width: 158px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.hoodiespage-text19 {
+  top: 1847px;
+  left: 281px;
+  color: rgba(0, 0, 0, 1);
+  width: 160px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.hoodiespage-text20 {
+  top: 1847px;
+  left: 424px;
+  color: rgba(0, 0, 0, 1);
+  width: 158px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.hoodiespage-text21 {
+  top: 1685px;
+  left: 445px;
+  color: rgba(0, 0, 0, 1);
+  width: 156px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.hoodiespage-rectangle23 {
+  top: 2041px;
+  left: 145px;
+  width: 1148px;
+  height: 94px;
+  position: absolute;
+  border-color: rgba(255, 65, 65, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.hoodiespage-rectangle24 {
+  top: 2165px;
+  left: 147px;
+  width: 1146px;
+  height: 95px;
+  position: absolute;
+  border-color: rgba(255, 65, 65, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.hoodiespage-text22 {
+  top: 2062px;
+  left: 503px;
+  color: rgba(255, 65, 65, 1);
+  width: 434px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.hoodiespage-text24 {
+  top: 2187px;
+  left: 503px;
+  color: rgba(255, 65, 65, 1);
+  width: 434px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.hoodiespage-vector {
+  top: 42px;
+  left: 30px;
+  width: 9px;
+  height: 18px;
+  position: absolute;
+}

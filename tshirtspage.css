@@ -1,0 +1,266 @@
+.tshirtspage-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.tshirtspage-tshirtspage {
+  width: 100%;
+  height: 2382px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.tshirtspage-tshirts {
+  top: 118px;
+  left: 1370px;
+  width: 1300px;
+  height: 1198px;
+  position: absolute;
+}
+.tshirtspage-text {
+  top: 1377px;
+  left: 13px;
+  color: rgba(255, 65, 65, 1);
+  width: 413px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.tshirtspage-text02 {
+  top: 1438px;
+  left: 86px;
+  color: rgba(0, 0, 0, 1);
+  width: 195px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.tshirtspage-text04 {
+  top: 1615px;
+  left: 116px;
+  color: rgba(0, 0, 0, 1);
+  width: 139px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.tshirtspage-text06 {
+  top: 1516px;
+  left: 13px;
+  color: rgba(0, 0, 0, 1);
+  width: 385px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.tshirtspage-text08 {
+  top: 1561px;
+  left: 101px;
+  color: rgba(255, 65, 65, 1);
+  width: 117px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.tshirtspage-text10 {
+  top: 1561px;
+  left: 242px;
+  color: rgba(255, 65, 65, 1);
+  width: 116px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.tshirtspage-text12 {
+  top: 1561px;
+  left: 383px;
+  color: rgba(255, 65, 65, 1);
+  width: 117px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.tshirtspage-text14 {
+  top: 1561px;
+  left: 524px;
+  color: rgba(255, 65, 65, 1);
+  width: 117px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.tshirtspage-text16 {
+  top: 1781px;
+  left: 17px;
+  color: rgba(0, 0, 0, 1);
+  width: 331px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.tshirtspage-rectangle19 {
+  top: 1679px;
+  left: 146px;
+  width: 92px;
+  height: 62px;
+  position: absolute;
+  border-color: rgba(255, 65, 65, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.tshirtspage-rectangle22 {
+  top: 1839px;
+  left: 145px;
+  width: 437px;
+  height: 62px;
+  position: absolute;
+  border-color: rgba(255, 65, 65, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.tshirtspage-rectangle20 {
+  top: 1679px;
+  left: 311px;
+  width: 96px;
+  height: 62px;
+  position: absolute;
+  border-color: rgba(255, 65, 65, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.tshirtspage-rectangle21 {
+  top: 1679px;
+  left: 477px;
+  width: 92px;
+  height: 62px;
+  position: absolute;
+  border-color: rgba(255, 65, 65, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.tshirtspage-text18 {
+  top: 1688px;
+  left: 113px;
+  color: rgba(0, 0, 0, 1);
+  width: 158px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.tshirtspage-text19 {
+  top: 1691px;
+  left: 280px;
+  color: rgba(0, 0, 0, 1);
+  width: 159px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.tshirtspage-text20 {
+  top: 1851px;
+  left: 139px;
+  color: rgba(0, 0, 0, 1);
+  width: 158px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.tshirtspage-text21 {
+  top: 1851px;
+  left: 281px;
+  color: rgba(0, 0, 0, 1);
+  width: 160px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.tshirtspage-text22 {
+  top: 1851px;
+  left: 424px;
+  color: rgba(0, 0, 0, 1);
+  width: 158px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.tshirtspage-text23 {
+  top: 1689px;
+  left: 445px;
+  color: rgba(0, 0, 0, 1);
+  width: 156px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.tshirtspage-rectangle23 {
+  top: 2045px;
+  left: 145px;
+  width: 1148px;
+  height: 94px;
+  position: absolute;
+  border-color: rgba(255, 65, 65, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.tshirtspage-rectangle24 {
+  top: 2169px;
+  left: 147px;
+  width: 1146px;
+  height: 95px;
+  position: absolute;
+  border-color: rgba(255, 65, 65, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.tshirtspage-text24 {
+  top: 2066px;
+  left: 503px;
+  color: rgba(255, 65, 65, 1);
+  width: 434px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.tshirtspage-text26 {
+  top: 2191px;
+  left: 503px;
+  color: rgba(255, 65, 65, 1);
+  width: 434px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.tshirtspage-vector {
+  top: 42px;
+  left: 30px;
+  width: 9px;
+  height: 18px;
+  position: absolute;
+}
